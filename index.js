@@ -1,5 +1,5 @@
-function Ass() {
-    console.log('ngl this sucks dick yes')
+function A() {
+    console.log('this is a function')
 }
 function YO() {
     console.log('this is yo function')
