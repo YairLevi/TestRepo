@@ -3,6 +3,6 @@ function YO5() {
     console.log('this is a function')
 
 }
-function YO() {
-    console.log('this is yo function')
+function BRUH() {
+    console.log('this is bruh function')
 }
