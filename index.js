@@ -4,6 +4,6 @@ function YO5() {
 
 function BRUH() {
     console.log('this is bruh function')
-    console.log('hello')
+    console.log('hello boi')
     console.log('this is yo function')
 }
