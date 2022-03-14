@@ -1,4 +1,4 @@
-function A() {
+function YO5() {
     console.log('this is a function')
 }
 function YO() {
