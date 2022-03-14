@@ -1,4 +1,6 @@
 function A() {
     console.log('this is a function')
-    console.log('yo waddap cuz')
+}
+function B() {
+    console.log('this is b function')
 }
