@@ -5,5 +5,6 @@ function YO5() {
 function BRUH() {
     console.log('this is bruh function')
     console.log('hello boi')
+    console.log('hello yes yes')
     console.log('this is yo function')
 }
