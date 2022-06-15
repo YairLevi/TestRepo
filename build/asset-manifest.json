@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e145ea8.css",
+    "main.js": "/static/js/main.dfb9bef5.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.0153fb5e5b5f697b4bcc.svg",
+    "static/media/default-course-img-1.PNG": "/static/media/default-course-img-1.435b5f981e9ece489d00.PNG",
+    "static/media/boxicons.eot": "/static/media/boxicons.21f7c5dd64d88e1fc666.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.02aa967c5bfb9489501a.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.ad0ddae357213656b3e6.ttf",
+    "static/media/boxicons.woff2": "/static/media/boxicons.0335b427967c56248ea6.woff2",
+    "static/media/hero_section_image.jpg": "/static/media/hero_section_image.0c2b38ed3aab901eac3b.jpg",
+    "static/media/header.svg": "/static/media/header.428fbcb0370704a47213.svg",
+    "index.html": "/index.html",
+    "main.2e145ea8.css.map": "/static/css/main.2e145ea8.css.map",
+    "main.dfb9bef5.js.map": "/static/js/main.dfb9bef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e145ea8.css",
+    "static/js/main.dfb9bef5.js"
+  ]
+}
